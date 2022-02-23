@@ -1,0 +1,234 @@
+h1
+{
+    background-color:black;
+    opacity: 1;
+    padding-bottom: 1cm;
+    font-family:'Lucida Sans';
+    font-weight: lighter;
+    
+
+}
+#c1
+{
+    left: 50px;
+}
+#c1
+{
+    height: 20px;
+}
+h2{
+    position: absolute;
+    left: 1100px;
+    top: 0.1cm;
+    font-family: 'Times New Roman';
+    color:rgb(50, 94, 140);
+    font-weight:bolder;
+    font-style: normal;
+}
+#b1
+{
+    background-color:black
+}
+#b2
+{
+    background-color:black
+}
+#b3
+{
+    background-color: black
+}
+#b4
+{
+    background-color:black
+}
+#b5
+{
+    background-color:black
+}
+h6{
+    color: rgba(191,191,191,16);
+}
+#a3
+{
+    background-color: black;
+}
+#b6
+{
+    position: absolute;
+    left: 600px;
+    top: 600px;
+    background-color: rgb(232, 232, 88);
+    font: large;
+    font-family:Impact;
+    
+}
+h5
+{
+    color:black;
+    font-weight: bolder;
+
+}
+#c1
+{
+    left: 600px;
+    top: 1000px;
+}
+h4
+{
+    position: absolute;
+    top: 500px;
+    left: 580px;
+    font-weight: bold;
+    color: yellow;
+    font-size:xx-large
+}
+h3
+{
+    position: absolute;
+    top: 550px;
+    left: 490px;
+    color: yellow;
+    text-align: center;
+    font-style: italic;
+}
+#d1
+{
+    font-family: fantasy;
+    font-weight: bolder;
+    position: absolute;
+    top: 1020px;
+    left: 600px;
+    font-size: xx-large;
+    background-color: white;
+    
+}
+#d2
+{
+    position: absolute;
+    left: 100px;
+    top: 1100px;
+    height:7cm;
+    width: 7cm;
+}
+#d3
+{
+    position: absolute;
+    left: 700px;
+    top: 1100px;
+    height: 12cm;
+    width: 12cm;
+
+}
+#b11
+{
+    position: absolute;
+    left: 300px;
+    top: 1400px;
+}
+#d4
+{
+    position: absolute;
+    left: 1400px;
+    top: 1100;
+    height: 12cm;
+    width: 12cm;
+}
+#c2
+{
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    background-color: rgb(12, 25, 39);
+    color: white;
+}
+#c3
+{
+    position: absolute;
+    top: 550px;
+    left: 100px;
+    background-color: brown;
+}
+#t1
+{
+    color: white;
+}
+#m1
+{
+    background-color:brown ;
+}
+#v1
+{
+    color: black;
+}
+#m2
+{
+    background-color:rgb(12, 25, 39) ;
+}
+#c4
+{
+    
+    position: absolute;
+    top: 750px;
+    right: 50px;
+    background-color: rgb(87, 25, 25);
+}
+
+#p2
+{
+    font-size: x-large;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    color:rgb(12, 25, 39);
+}
+#p3
+{
+    font-size: xx-large;
+    font-family:'Arial Narrow Bold';
+    font-style: italic;
+    color:red;
+    font-weight: bolder;
+}
+#n1
+{
+    color: black;
+
+}
+#n2
+{
+    color: black;
+}
+#n3
+{
+    color: black;
+}
+#t2
+{
+    color: rgb(33, 33, 224);
+    font: bolder;
+    font-size:large;
+    font-style: normal;
+    font-family: 'Times New Roman';
+}
+#t3
+{
+    color:black;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+}
+#ba1
+{
+    background-color: black;
+}
+#t4
+{
+    font-family:'Arial Narrow Bold';
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(228, 70, 70);
+}
+#n1
+{
+    background-color: black;
+}
